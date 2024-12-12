@@ -1,4 +1,4 @@
-# 牧养[[1]](./appendices/cowboy.md)[[2]](./appendices/immortal.md)
+# 牧养[[1]](./appendices/immortal.md)[[2]](./appendices/cowboy.md)
 
 一片牧场，谁拳头大就是谁的，谁就能当牧场主，谁就能靠牧场上的天然资源进行享受，包括人。
 
