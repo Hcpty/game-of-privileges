@@ -1,4 +1,4 @@
-# 牧养[[1]](./appendices/artificial-cowboy.md)[[2]](./appendices/migration.md)
+# 牧养[[1]](./appendices/artificial-cowboy.md)[[2]](./appendices/interstellar-migration.md)
 
 一片牧场，谁拳头大就是谁的，谁就能当牧场主，谁就能靠牧场上的天然资源享受生活，包括人。
 
