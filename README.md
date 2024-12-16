@@ -1,6 +1,6 @@
 # 牧养[[1]](./appendices/about-saving-and-killing.md)[[2]](./appendices/artificial-cowboy.md)[[3]](./appendices/interstellar-migration.md)
 
-一片牧场，谁拳头大就是谁的，谁就能当牧场主，谁就能靠牧场上的天然资源享受生活，包括人。
+牧场主可以依靠牧场上的天然资源享受生活，包括人。
 
 牧场主必须作战，以占有牧场。
 
