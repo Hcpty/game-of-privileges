@@ -1,4 +1,4 @@
-# 牧养[[1]](./appendices/about-saving-and-killing.md)[[2]](./appendices/artificial-cowboy.md)[[3]](./appendices/interstellar-migration.md)
+# 牧养[[1]](./appendices/for-survivors.md)[[2]](./appendices/artificial-cowboy.md)[[3]](./appendices/interstellar-migration.md)
 
 牧场主可以依靠牧场上的天然资源享受生活，包括人。
 
